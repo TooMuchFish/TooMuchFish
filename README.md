@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TooMuchFish
+- 👀 I’m interested in making more friends
+- 🌱 I’m currently learning java in UCSD
