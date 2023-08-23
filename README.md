@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Shaodong!
 - 👀 I’m interested in making more friends!
-- 🌱 I’m currently learning Math&CS in UCSD!
+- 🌱 I’m currently learning MEng of Systems Engineering in Cornell University!
